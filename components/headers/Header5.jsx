@@ -56,9 +56,10 @@ export default function Header5({ btnClass = "btn-default btn-small round" }) {
                   <Image
                     className="logo-light"
                     alt="Corporate Logo"
-                    src="/assets/images/logo/logo-2x.png"
+                    src="/assets/images/logo/logo.png"
                     width={288}
                     height={100}
+                     style={{ maxHeight: "90px", width: "auto" }}
                   />
                   <Image
                     className="logo-dark"
@@ -66,6 +67,7 @@ export default function Header5({ btnClass = "btn-default btn-small round" }) {
                     src="/assets/images/logo/logo-dark.png"
                     width={288}
                     height={100}
+                     style={{ maxHeight: "90px", width: "auto" }}
                   />
                 </Link>
               </div>
