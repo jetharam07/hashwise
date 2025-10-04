@@ -86,10 +86,11 @@ import Team from "@/components/homes/index-corporate-one-page/Team";
 import React from "react";
 
 export const metadata = {
-  title:
-    "Home Corporate One Page || Doob Business and Consulting React Nextjs Bootstrap5 Template",
-  description: "Doob Business and Consulting React Nextjs Bootstrap5 Template",
+  title: "Hashwise | Blockchain Solutions & Web3 Development Company",
+  description:
+    "Hashwise provides secure, scalable blockchain and Web3 development solutions. We specialize in DApps, smart contracts, and decentralized systems for the next generation of the internet.",
 };
+
 export default function page() {
   return (
     <>
